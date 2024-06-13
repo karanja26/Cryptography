@@ -10,5 +10,10 @@ Cryptography and cryptographic (“crypto”) systems help in securing data from
 <h2>Program walkthrough:</h2>
 <P align="center">
 use the CryptoForge tool to encrypt a file and text message<br/>
-![image](https://github.com/karanja26/Cryptography/assets/55892563/448225ec-7359-462e-a655-27c3adf77341)
+<p align="center">
+  Use the CryptoForge tool to encrypt a file and text message<br/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/73ed8b01-2a1c-48d7-944c-966ca15de992" alt="image"/>
+  <br/>
+</p>
+
 <br/>
