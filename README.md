@@ -13,4 +13,11 @@ Cryptography and cryptographic (“crypto”) systems help in securing data from
   <img src="https://github.com/karanja26/Cryptography/assets/55892563/73ed8b01-2a1c-48d7-944c-966ca15de992" alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
+<p align="center">
+  stept two<br/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/777e27c7-d3d0-4e8d-8c3f-7ff8a27f0414" alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <br/>
+</p>
+
+
 
