@@ -8,12 +8,9 @@ Cryptography and cryptographic (“crypto”) systems help in securing data from
 <h2>Environment used</h2>
 <b>Windows 11</b>
 <h2>Program walkthrough:</h2>
-<P align="center">
-use the CryptoForge tool to encrypt a file and text message<br/>
 <p align="center">
   Use the CryptoForge tool to encrypt a file and text message<br/>
-  <img src="https://github.com/karanja26/Cryptography/assets/55892563/73ed8b01-2a1c-48d7-944c-966ca15de992" alt="image"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/73ed8b01-2a1c-48d7-944c-966ca15de992" alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
-<br/>
