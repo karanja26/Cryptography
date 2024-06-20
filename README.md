@@ -50,114 +50,107 @@ alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
 </p>
 
 <p align="center">
-  step . 
+  step 6.	The Enter Passphrase - CryptoForge Files dialog-box appears; enter the password that you have provided in Step#2 to encrypt the file and click OK.
+Note: We have already installed Cryptoforge tool in Windows Server 2019 machine.
+
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/bfc3d2e4-81d2-49e8-bbf3-8d3949b83d6d"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+Upon entering the password, the file will be successfully decrypted. You may now double-click the text file to view its contents.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/f31d22f0-88c0-4b46-bccb-85b941d13321"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 7.So far, you have seen how to encrypt a file and share it with the intended user. Now, we shall share an encrypted message with a user.
+In the Windows Server 2019 machine, click the Type here to search icon present in the bottom-left corner of Desktop, type crypto in the search field and click CryptoForge Text from the apps to launch the application.
+
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/3c525922-6132-4f4f-bdd1-e7689aab6757"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 <p align="center">
-  step . 
+  step 8.The CryptoForge Text window appears; type a message and click Encrypt from the toolbar.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/181d0fcb-a4fc-4885-b41d-dccb5bb3e834"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 9.The Enter Passphrase - CryptoForge Text dialog-box appears; type a password in the Passphrase field, retype it in the Confirm field, and click OK. The password used in this lab is......
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/0283e59c-012b-460e-9606-c38bf041fe71"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  The message that you have typed will be encrypted, as shown in the screenshot.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/fd786402-55f6-4664-9834-93bd6120ea02"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 10.Now, you need to save the file. Click File in the menu bar and click Save.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/0224cd2c-eb54-48ab-be44-0aa283204e67"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 11.The Save As window appears; navigate to Z:\\Cryptography Tools\CryptoForge, specify the file name as Secret Message.cfd, and click Save. 
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/167733cc-4cef-4ed0-b617-3d7bad762a2a"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 12.Close the CryptoForge Text window.
+Now, let us assume that you shared the file through the mapped network drive and shared the password to decrypt the file in an email message or through some other means.
+Click on CEHv12 Windows 11 to switch to the Windows 11 machine and navigate to E:\Cryptography Tools\CryptoForge.
+You will observe the encrypted file in this location; double-click the file Secret Message.cfd.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/f81eb786-d79e-43cc-aa89-016e7e6233fd"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 13.The CryptoForge Text window appears, displaying the message in an encrypted format. Click Decrypt from the toolbar to decrypt it.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/1bfd5f6e-b740-4165-8109-df91d5984257"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 14.The Enter Passphrase - CryptoForge Text dialog-box appears; enter the password you provided in Step#13 to decrypt the message in the Passphrase field and click OK.
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/e9ee5335-02ae-4369-9d4a-03c2a0e263f9"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
 
 <p align="center">
-  step . 
+  step 15.The CryptoForge Text window appears, displaying the message in plain-text format, as shown in the screenshot.
+Note: In real-time, you may share sensitive information through email by encrypting data using CryptoForge.
+
  <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/karanja26/Cryptography/assets/55892563/45471da6-6b34-476d-8bb0-50348cbdc32a"
+alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
   <br/>
 </p>
-
-<p align="center">
-  step . 
- <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
-  <br/>
-</p>
-
-<p align="center">
-  step . 
- <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
-  <br/>
-</p>
-
-<p align="center">
-  step . 
- <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
-  <br/>
-</p>
-
-<p align="center">
-  step . 
- <br/>
-  <img src=alt="image" style="width: 50%; height: auto; display: block; margin: 0 auto;"/>
-  <br/>
-</p>
-
+This concludes the demonstration of performing file and text message encryption using CryptoForge.
 
